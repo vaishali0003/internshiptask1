@@ -93,13 +93,11 @@ margin-left: 0.3rem;
   align-items: center;
   justify-content: center;
 }
- 
 
-
-.logo h1{
-font-size: 3rem;
+.logo1{
+  padding: 0.1rem 0;
+  margin-bottom: 0;
 }
-
 
 /* MENU SECTION CSS */
 
@@ -406,20 +404,17 @@ filter: invert(1);
     height: 3.2rem;
   }
 .menuItem{
-/* display: none; */
 opacity: 0;
 justify-content: center;
 }
 .line_2{
   opacity: 0;
-  /* display: none; */
 }
 .menus{
   padding: 1rem 0.5rem;
 }
 .menus1{
   flex-direction: column;
-  /* transition: all 0.15s linear; */
 }
 .menuIcon{
   margin-bottom: 1rem;
@@ -428,7 +423,6 @@ justify-content: center;
   display: flex;
   position: absolute;
     right: 0;
-  /* padding: 1rem 0.5rem; */
 }
 .footer1{
   flex-direction: column;
@@ -490,5 +484,10 @@ justify-content: center;
 }
 .active_color{
     margin: 0px 6px;
+}
+.hm_line{
+  height: 3px;
+  width: 24px;
+  margin: 2px 13px;
 }
 }
