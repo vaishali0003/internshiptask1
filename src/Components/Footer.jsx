@@ -10,7 +10,7 @@ const Footer = () => {
                         <div className="footIcon">
                             <img src="../images/email.png" alt="email"/>
                         </div>
-                        vaishali@gmail.com / vaishali5@gmail.com
+                        vaishali@gmail.com/vaishali5@gmail.com
                     </div>
 
                     <div className="foot1_sec">
