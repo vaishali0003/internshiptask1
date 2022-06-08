@@ -122,6 +122,8 @@ margin-left: 0.3rem;
   width: 28px;
 }
 
+ 
+
 .line_2{
   border-left: 1px solid rgb(104 92 92 / 84%);
 }
@@ -407,7 +409,7 @@ opacity: 0;
 justify-content: center;
 }
 .line_2{
-  opacity: 0;
+  display: none;
 }
 .menus{
   padding: 1rem 0.5rem;
@@ -465,6 +467,9 @@ justify-content: center;
 }
 
 @media screen and (max-width: 437px){
+  .menuIcon{
+    margin-top: 0.7rem;
+  }
   .header {
     font-size: 0.75rem;
   }

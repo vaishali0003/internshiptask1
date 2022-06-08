@@ -32,7 +32,7 @@ const Menu = () => {
                     <div className="line_2">
                     </div>
                     <div className='menuIcon'>
-                        <img src="../images/home.png" alt="" />
+                        <img src="../images/home.png" alt="menuIcon" />
                     </div>
                     <div className="line_2"></div>
                     <h4 className="menuItem">Home</h4>
